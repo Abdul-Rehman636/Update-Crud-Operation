@@ -1,0 +1,118 @@
+#div-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#div-2{
+    width: 80%;
+}
+
+#div-3{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#div-4{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#text-1-l{
+    width: 10rem;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Inter";
+}
+
+#text-2{
+    width: 18rem;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Inter";
+}
+
+#text-3{
+    width: 20rem;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Inter";
+}
+
+#text-4{
+    width: 15rem;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Inter";
+}
+
+#div-5{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#div-6{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6px;
+}
+
+#text-5{
+    width: 10rem;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+#text-6{
+    width: 18rem;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+#text-7{
+    width: 20rem;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+#text-8{
+    width: 15rem;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+#button{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins";
+    color: #ffffff;
+    background-color: red;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-right: 6px;
+    height: 50px;
+    border: red;
+    border-radius: 4px;
+    cursor: pointer;
+}
